@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://shinde.nl"><img width="80%" alt="Hello, I'm Shubham Shinde !" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://shinde.nl"><img width="80%" alt="Hello, I'm Shubham Shinde !" src=".Shubham Shinde-logos_white.png" /></a></p>
 
 <br />
 
