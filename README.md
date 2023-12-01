@@ -2,6 +2,9 @@
 <p align="center"><a href="https://shinde.nl"><img width="80%" alt="Hello, I'm Shubham Shinde !" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 I'm an aspiring full-stack developer eager to embark on a journey of creating exciting projects.
 
